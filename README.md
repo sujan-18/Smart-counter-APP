@@ -4,8 +4,8 @@ This is a simple counter web app made using **HTML, CSS, and JavaScript**.
 It lets you increment, decrement, and reset a number using buttons.
 
 ## Features
-- + Increment button
-- - Decrement button (disabled at 0)
+-  Increment button
+-  Decrement button (disabled at 0)
 - 🔁 Reset to 0
 - 🧠 Logic fully handled in JS
 
